@@ -88,4 +88,6 @@ m4 = n.array([
 
 print(f"Distance between {m3} and {m4} : {n.linalg.norm(m3-m4,2)}")
 cos_theta = (m3.T@m4) / ( n.linalg.norm(m3,2) * n.linalg.norm(m4,2) ) # cos_theta = x(T).y / ||x||2 * ||y||2
+cos_theta_inverse = n.arccos(cos_theta) # numpy.arccos(angle) is used to find the inverse of an angle
 print(f"Cosine of\n{m3}\nand\n{m4} : {n.round(cos_theta,3)}")
+print(f"Inverse of cos_theta : {n.round(cos_theta_inverse,3)}")
