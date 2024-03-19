@@ -1,0 +1,40 @@
+1.QUESTION REFINEMENT PATTERN
+Here are the summarized notes based on the content provided:
+
+- The question refinement pattern aims to improve interactions with large language models like ChatGPT by refining questions.
+- Users prompt the model to suggest better questions based on its understanding of language patterns and topic contexts.
+- The pattern involves instructing the model to suggest a refined question and asking the user if they want to use it.
+- The refinement process helps clarify ambiguous or vague questions, providing more specific criteria and context.
+- Users can reflect on the suggested questions to identify missing information or consider different aspects of the topic.
+- This pattern encourages users to think more effectively about their questions and prompts, resulting in better outputs and understanding of the topic.
+
+2.cognitive verifier pattern
+Here are the summarized notes for the content provided:
+
+- Large language models can often reason better by breaking down problems into smaller ones and explaining their thought process.
+- The Cognitive Verifier pattern helps improve answers by instructing the model to generate additional questions to subdivide the original question.
+- By breaking down the question, the model can tap into its knowledge base to identify relevant sub-questions and provide more accurate answers.
+- The pattern also helps users structure their thinking by revealing additional dimensions to the problem.
+- An example is provided where the model is asked about the number of mosquitoes in a front yard, and it generates relevant sub-questions like yard size, climate, time of year, presence of water sources, and vegetation.
+- Users can provide answers to these sub-questions, and the model combines them to produce a final answer with more context and accuracy.
+- While the model's output should be verified, the Cognitive Verifier pattern helps users understand the factors influencing the answer and prompts further exploration.
+
+3.AUDIENCE PERSONA PATTERN
+Here are the summarized notes for the content provided:
+
+- The Audience Persona pattern complements the Persona pattern by instructing the large language model to produce output tailored for a specific audience.
+- Instead of specifying rules for output, the Audience Persona pattern defines the audience persona, allowing the model to adjust its output accordingly.
+- Examples demonstrate how the same topic, explaining large language models, can be presented differently based on the assumed audience persona.
+- For instance, the model adapts its explanation for a layperson, Christopher Columbus, and a second grader who easily gets bored, each time altering the tone, language, and analogies used.
+- By leveraging the Audience Persona pattern, users can obtain diverse and targeted outputs without needing to define specific output guidelines.
+- This pattern enhances the model's capability to generate content suited to various audiences, making it a powerful tool for communication and education.
+
+4.FLIPPED INTERACTION PATTERNS
+Here are the summarized notes for the content provided:
+
+- The Flipped Interaction pattern involves having the large language model ask questions to guide problem-solving or information gathering.
+- It reverses the typical interaction, with the model asking questions and the user providing answers.
+- Users can specify a topic and desired outcome, such as creating a fitness regimen based on fitness goals.
+- The model asks questions until it has enough information to achieve the specified goal.
+- This pattern is useful for scenarios where the user needs guidance, testing, or data collection, such as creating personalized plans or diagnosing issues.
+- It leverages the model's knowledge and language patterns to generate relevant questions and responses, enhancing its effectiveness in guiding the interaction.

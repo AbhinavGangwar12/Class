@@ -1,0 +1,47 @@
+1.INTRODUCTION TO NEW INFORMATION TO LLM
+
+Here are some key notes summarizing the video:
+
+- Large language models lack access to information beyond their training data and cut-off point.
+- To incorporate new information into prompts, simply include it at the beginning of the prompt.
+- Examples include providing data on birds outside the house or introducing assumptions like a glass dome.
+- The model can then use this information to reason and provide answers based on the input.
+- It's crucial to provide enough context and any necessary rules for effective reasoning.
+- New applications may involve searching databases, assembling prompts, and querying large language models.
+- Introducing new information is done directly in the prompt without the need for retraining the model.
+
+These notes highlight the importance of incorporating new information into prompts for large language models to effectively reason and provide accurate responses.
+
+2.PROMPT SIZE LIMITATIONS
+
+Sure, here's a summarized version of the text you provided:
+
+- Prompts are crucial inputs to models like ChatGPT, but they have size limitations.
+- Models can't process unlimited amounts of information at once, affecting prompt design.
+- Users must select and prioritize information based on task relevance.
+- Filters and summaries help fit information within prompt limits.
+- Summarizing information helps preserve key details for reasoning tasks.
+- Maintaining relevance and essential details is crucial in summarizing and filtering.
+
+3.Prompts are a tool for rpeated use
+
+Here are the summarized notes from the provided transcript:
+
+- Viewing prompts as conversations rather than one-off interactions is crucial when working with large language models.
+- Conversations allow for iterative refinement, akin to sculpting a masterpiece, where each interaction shapes the outcome.
+- An example of conversational interaction involves seeking guidance on exploring a virtual lab for building robots.
+- Through a series of prompts and responses, the user navigates through various steps, including defining the purpose, brainstorming concepts, and selecting components.
+- Challenges such as generating diagrams or images are addressed by refining the conversation or seeking alternative solutions.
+- The power of large language models lies in continuous engagement, asking follow-up questions, and problem-solving within the conversation.
+- Iterative refinement and feedback are key to leveraging the full capabilities of these models.
+
+4.ROOT Prompts
+Here are the summarized notes based on the content provided:
+
+- Prompts serve as essential rules that guide interactions with large language models.
+- Root prompts, often hidden from users, define ground rules for model interactions, such as avoiding offensive content or prioritizing helpful output.
+- Users can customize root prompts to set specific goals or constraints for model behavior.
+- Root prompts influence subsequent conversation outcomes by providing rules that must be followed.
+- Experimentation with root prompts can simulate different training data cut-off dates, affecting model responses to questions beyond a certain timeframe.
+- Setting guardrails with root prompts is crucial to ensure appropriate model behavior and prevent circumvention by users.
+- Root prompts allow for scoping and specialization of model interactions, defining rules and boundaries for specific topic areas or tasks.

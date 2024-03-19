@@ -1,0 +1,15 @@
+1.FEW SHOT EXAMPLES
+Here are the summarized notes with important keywords:
+
+- **Few-Shot Prompting**: Teaching the large language model to follow a pattern using examples of input and expected output.
+
+- **Pattern Learning**: Rather than describing the process, providing examples to teach the model what to do and how to format output.
+- **Sentiment Analysis Example**: Providing examples of input with associated sentiments (positive, negative, neutral) to teach the model sentiment analysis.
+- **Example Structure**: Input examples followed by expected sentiment output.
+- **Pattern Recognition**: The model learns to recognize patterns in the input examples and generate appropriate output based on the pattern.
+- **Automatic Constrained Output**: The model automatically constrains itself based on the labels provided in the examples.
+- **Prefixes**: Prefixes like "input" and "sentiment" guide the model in following the pattern.
+- **Learning from Patterns**: Models learn to predict the next word based on patterns seen in the examples.
+- **Teaching Approach**: A powerful way to teach the model tasks, especially with data that includes input-output pairs.
+
+
